@@ -7,7 +7,8 @@ Installationsschritte ausführen.
 ## 2. Installation VS Code Plugins
 Am linken Rand auf das Extention Menü **(1)** klicken und die 2 Pakete **(2)** suchen. </br>
 - `C/C++` von Microsoft </br>
-- `PlatformIO IDE` von PlatformIO </br>
+- `PlatformIO IDE` von PlatformIO
+
 ![](./img/extentions.png)
 
 Installiert werden die Extentions über den Install Button im Hauptfenster
