@@ -50,8 +50,10 @@ Der COM-Port **(2)** muss auf den des USB-Seriell-Wandlers geingestellt werden.
 ## 6. Hinweise
 - Anders als bei Arduino **muss** eine Funktion deklariert sein, bevor diese genutzt werden kann. 
 - über `STRG`+`Shift`+`P` lässt sich eine Eingabeaufforderung öffnen In dieser kann man `build` eingeben kann und den Befehl `PlatformIO: Build` bzw. `PlatformIO: Upload` als "Shortcut" auswählen. (Nicht `C/C++: Build and Debug`. Dies ist der falsche Compiler!) <br>
-Alternativ über den PlatformIO-Button am linken Rand und im aufgeheneden Menü `Build` oder `Upload` auswählen.
-![Build](./img/upload.png)
+Alternativ über den PlatformIO-Button am linken Rand und im aufgeheneden Menü `Build` oder `Upload` auswählen.</br>
+![Build](./img/upload.png)</br>
+Oder, über den Build-Button **(2)** und Upload-Button **(3)** in der Fußzeile. Es sind auch Buttons für `PlatformIO: Home` **(1)** und des `Seriellen Monitors` **(4)** verfügbar
+![](./img/upload_2.png)
 
 ## 7. Referenzen
 - Library Doku: https://4dsystems.com.au/mwdownloads/download/link/id/205/ 
